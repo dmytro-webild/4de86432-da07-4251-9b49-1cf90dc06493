@@ -79,7 +79,7 @@ export default function LandingPage() {
           href: "#products",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/full-shot-man-playing-soccer_23-2150405401.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/full-shot-man-playing-soccer_23-2150405401.jpg?_wi=1"
       imageAlt="Soccer training precision"
       mediaAnimation="slide-up"
       avatars={[
@@ -273,7 +273,7 @@ export default function LandingPage() {
           quote: "Precision matters when you're turning pro. This gear is the best I've found.",
           name: "Tom W.",
           role: "Forward",
-          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-man-playing-soccer_23-2150405401.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-man-playing-soccer_23-2150405401.jpg?_wi=2",
         },
       ]}
       title="Players Upgraded"
