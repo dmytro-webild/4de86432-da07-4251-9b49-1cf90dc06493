@@ -51,7 +51,7 @@ export default function LandingPage() {
       ]}
       enableKpiAnimation={true}
       buttons={[{ text: "Start Shopping", href: "#products" }]}
-      imageSrc="http://img.b2bpic.net/free-photo/full-shot-man-playing-soccer_23-2150405401.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/full-shot-man-playing-soccer_23-2150405401.jpg?_wi=1"
       imageAlt="Soccer training precision"
       mediaAnimation="slide-up"
       avatars={[
@@ -124,7 +124,7 @@ export default function LandingPage() {
         { id: "2", title: "Professional Quality", quote: "Finally, equipment that doesn't feel like a toy. It's built for real training.", name: "Marcus R.", role: "Coach", imageSrc: "http://img.b2bpic.net/free-photo/sportive-man-with-headphones-looking-away_23-2148303396.jpg" },
         { id: "3", title: "Recover Faster", quote: "The compression gear helps me back on the field two days faster than before.", name: "Elena K.", role: "Defender", imageSrc: "http://img.b2bpic.net/free-photo/close-up-male-hands-tying-up-sport-shoes_1262-4792.jpg" },
         { id: "4", title: "Top Tier Gear", quote: "The reaction balls are standard for our training sessions now. Exceptional quality.", name: "David L.", role: "Goalkeeper", imageSrc: "http://img.b2bpic.net/free-photo/football-player-executing-free-kick_23-2147644513.jpg" },
-        { id: "5", title: "Precision", quote: "Precision matters when you're turning pro. This gear is the best I've found.", name: "Tom W.", role: "Forward", imageSrc: "http://img.b2bpic.net/free-photo/full-shot-man-playing-soccer_23-2150405401.jpg" },
+        { id: "5", title: "Precision", quote: "Precision matters when you're turning pro. This gear is the best I've found.", name: "Tom W.", role: "Forward", imageSrc: "http://img.b2bpic.net/free-photo/full-shot-man-playing-soccer_23-2150405401.jpg?_wi=2" },
       ]}
       title="Players Upgraded"
       description="Join the growing community of players transforming their game with Pitch Lab."
